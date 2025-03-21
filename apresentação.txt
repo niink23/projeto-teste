@@ -1,2 +1,2 @@
-hoje é sexta.
+hoje é **sexta**.
 estou feliz =)
